@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.exe
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.deps.json
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.runtimeconfig.json
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.dll
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\bin\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.pdb
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.dll
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.pdb
+C:\Users\dawid\source\repos\Typygeneryczne zadanie 3\obj\Debug\netcoreapp3.1\Typygeneryczne zadanie 3.genruntimeconfig.cache
